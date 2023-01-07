@@ -6,6 +6,8 @@ Download Huggingface given `repo_id/filename`
 
 ```
 pip install huggingface-download-cli
+```
+
 ## Usage
 
 ```
